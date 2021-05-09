@@ -1,1 +1,3 @@
-# adicodes.dev
+# My portfolio - adicodes.dev 
+
+Stay tuned :)
